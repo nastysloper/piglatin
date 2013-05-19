@@ -1,5 +1,4 @@
-piglatin
-========
+
 def pig_latin_1
   while true
     puts 'Say something to translate.'
