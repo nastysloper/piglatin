@@ -1,4 +1,3 @@
-
 def pig_latin_1
   while true
     puts 'Say something to translate.'
@@ -23,3 +22,7 @@ def pig_latin_2
 end
  
 pig_latin_2
+
+# Cool program that I need to look at again. Would this be a good program to turn into a web app? Sure!
+# Also a way to practice regular expressions. And looking at the gsub method. 
+# The regex is matched in two groups. Why? The second part of gsub is the reordered word with ay added.
